@@ -48,4 +48,4 @@ print("Is it greater?", (float(5 > -2)))
 # String plus equation
 print("Is it greater or equal?", (float(5 >= -2)))
 # String plus equation
-print("Is it less or equal?", (float(5 <= -2)))
+print("Is it less or equal?", (5 <= -2))
